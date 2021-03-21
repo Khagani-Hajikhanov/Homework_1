@@ -1,0 +1,18 @@
+.orta{
+    height: 690px;
+    width: 960px;
+    background-color: rgb(226, 219, 219);
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.orta2{
+    width: 650px;
+    height: auto;
+    margin-top: 20px;
+    position: relative;
+    background-color: red;
+    display: flex;
+    align-items: center;
+}
